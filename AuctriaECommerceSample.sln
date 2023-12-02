@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuctriaECommerceSample", "AuctriaECommerceSample\AuctriaECommerceSample.csproj", "{E4D55089-CCD7-4C96-B8AF-69648AF5B9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctriaECommerceSample.Test", "AuctriaECommerceSample.Test\AuctriaECommerceSample.Test.csproj", "{F4A3D477-4382-4195-A992-C7CC789D2BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D55089-CCD7-4C96-B8AF-69648AF5B9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D55089-CCD7-4C96-B8AF-69648AF5B9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D55089-CCD7-4C96-B8AF-69648AF5B9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D55089-CCD7-4C96-B8AF-69648AF5B9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A3D477-4382-4195-A992-C7CC789D2BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A3D477-4382-4195-A992-C7CC789D2BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A3D477-4382-4195-A992-C7CC789D2BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A3D477-4382-4195-A992-C7CC789D2BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A75C174-E492-4EFF-B119-6FD3F027A66A}
+	EndGlobalSection
+EndGlobal

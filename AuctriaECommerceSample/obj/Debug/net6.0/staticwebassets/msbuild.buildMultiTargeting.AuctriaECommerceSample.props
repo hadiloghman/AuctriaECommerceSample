@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AuctriaECommerceSample.props" />
+</Project>
